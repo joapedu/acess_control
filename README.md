@@ -1,2 +1,3 @@
 # Base_Docker
-Base simples de db, backend e frontend dockerizado para alterações
+## (Node - Mongo - Compose)
+Base simples de db(mongo), backend(node) e frontend(html) dockerizado para alterações e testes.
